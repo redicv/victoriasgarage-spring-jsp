@@ -1,0 +1,26 @@
+.cardetailspage{ 
+    background-image: url('https://as2.ftcdn.net/v2/jpg/02/07/82/81/1000_F_207828137_KsQ3JNyzWlAx1hnGb1XoUMasqFWBO9lZ.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+
+    text-align: center;
+    color: lightblue;
+    padding: 30px;
+
+}
+
+.a{
+    color: lightblue;
+  }
+
+  *{
+    color: lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .carimages img{
+
+    height:70%;
+    width: 37%;
+  }

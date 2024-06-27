@@ -1,0 +1,22 @@
+.shopping-cart{
+    padding-left: 290px;
+}
+
+.container-fluid{
+    height: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+.d-flex{
+ height: 16px;
+ align-items: center;
+ display: flex;
+ padding-top: 17px;
+ padding-left: 10px;
+}
+
+/* .form-control .me-2 {
+    size: 28px;
+} */
+

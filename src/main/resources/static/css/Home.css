@@ -1,0 +1,22 @@
+.Homepage{
+    background-image: url('https://t3.ftcdn.net/jpg/03/57/83/08/240_F_357830890_Oa3BamPvEM1rjVJ72ZHKrOTKYKdVPIPd.jpg');
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+.title {
+     text-align: center;
+     color: tan;
+     padding-left: 40px;
+     padding-top: 370px;
+
+}
+mvn 
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
